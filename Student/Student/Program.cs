@@ -80,10 +80,6 @@ class CreateStudents
                 }
             }
         }
-        static void Main(string[] args)
-        {
-            
 
-        }
     }
-}
+
